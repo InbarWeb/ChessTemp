@@ -1,6 +1,6 @@
 #pragma once
-#include "IPiece.h"
-class King : public IPiece
+#include "Piece.h"
+class King : public Piece
 {
 };
 
