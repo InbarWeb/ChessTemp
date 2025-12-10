@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\",
+  "WorkspaceRootPath": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\IPiece.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\IPiece.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:IPiece.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Queen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Queen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Rook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Rook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Rook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Rook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\King.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:King.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Knight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Knight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Queen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Queen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Rook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Rook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Rook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Rook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\King.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:King.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Knight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Knight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\IPiece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\IPiece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0AFA16FC-1D15-4D94-9D47-AE46DA087345}|ChessProject.vcxproj|solutionrelative:IPiece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -68,174 +68,159 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "IPiece.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\IPiece.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\IPiece.h",
               "RelativeDocumentMoniker": "IPiece.h",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\IPiece.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\IPiece.h",
               "RelativeToolTip": "IPiece.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-12-10T17:11:01.92Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Player.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Player.h",
               "RelativeDocumentMoniker": "Player.h",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Player.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Player.h",
               "RelativeToolTip": "Player.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-10T17:15:37.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Rook.cpp",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Rook.cpp",
-              "RelativeDocumentMoniker": "Rook.cpp",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Rook.cpp",
-              "RelativeToolTip": "Rook.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-10T17:14:45.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Queen.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Queen.h",
-              "RelativeDocumentMoniker": "Queen.h",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Queen.h",
-              "RelativeToolTip": "Queen.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-10T17:14:15.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T17:15:37.89Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "King.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\King.h",
-              "RelativeDocumentMoniker": "King.h",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\King.h",
-              "RelativeToolTip": "King.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-10T17:13:43.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Bishop.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Bishop.h",
-              "RelativeDocumentMoniker": "Bishop.h",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Bishop.h",
-              "RelativeToolTip": "Bishop.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-10T17:13:12.328Z",
-              "EditorCaption": ""
+              "Title": "Rook.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Rook.cpp",
+              "RelativeDocumentMoniker": "Rook.cpp",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Rook.cpp",
+              "RelativeToolTip": "Rook.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-10T17:14:45.229Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Rook.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Rook.h",
-              "RelativeDocumentMoniker": "Rook.h",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Rook.h",
-              "RelativeToolTip": "Rook.h",
+              "Title": "Queen.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Queen.h",
+              "RelativeDocumentMoniker": "Queen.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Queen.h",
+              "RelativeToolTip": "Queen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-10T17:14:15.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "King.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\King.h",
+              "RelativeDocumentMoniker": "King.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\King.h",
+              "RelativeToolTip": "King.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-10T17:12:47.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T17:13:43.372Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Pawn.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Pawn.h",
-              "RelativeDocumentMoniker": "Pawn.h",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Pawn.h",
-              "RelativeToolTip": "Pawn.h",
+              "Title": "Bishop.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Bishop.h",
+              "RelativeDocumentMoniker": "Bishop.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Bishop.h",
+              "RelativeToolTip": "Bishop.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-10T17:13:12.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rook.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Rook.h",
+              "RelativeDocumentMoniker": "Rook.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Rook.h",
+              "RelativeToolTip": "Rook.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-10T17:12:11.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T17:12:47.174Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "GameManager.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\GameManager.h",
-              "RelativeDocumentMoniker": "GameManager.h",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\GameManager.h",
-              "RelativeToolTip": "GameManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Title": "Pawn.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Pawn.h",
+              "RelativeDocumentMoniker": "Pawn.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Pawn.h",
+              "RelativeToolTip": "Pawn.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-10T17:11:41.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T17:12:11.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Board.cpp",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Board.cpp",
-              "RelativeDocumentMoniker": "Board.cpp",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Board.cpp",
-              "RelativeToolTip": "Board.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-10T17:11:04.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IPiece.cpp",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\IPiece.cpp",
-              "RelativeDocumentMoniker": "IPiece.cpp",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\IPiece.cpp",
-              "RelativeToolTip": "IPiece.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-10T17:10:58.994Z",
+              "DocumentIndex": 1,
+              "Title": "Board.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Board.h",
+              "RelativeDocumentMoniker": "Board.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Board.h",
+              "RelativeToolTip": "Board.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-10T17:08:23.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Knight.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Knight.h",
-              "RelativeDocumentMoniker": "Knight.h",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Knight.h",
-              "RelativeToolTip": "Knight.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "GameManager.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\GameManager.h",
+              "RelativeDocumentMoniker": "GameManager.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\GameManager.h",
+              "RelativeToolTip": "GameManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-10T17:10:43.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T17:11:41.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Board.cpp",
+              "RelativeDocumentMoniker": "Board.cpp",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Board.cpp",
+              "RelativeToolTip": "Board.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-10T17:11:04.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPiece.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\IPiece.cpp",
+              "RelativeDocumentMoniker": "IPiece.cpp",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\IPiece.cpp",
+              "RelativeToolTip": "IPiece.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-10T17:10:58.994Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Board.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Board.h",
-              "RelativeDocumentMoniker": "Board.h",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\\u05E2\u05E0\u05D1\u05E8\\Magshimim\\C\u002B\u002B1\\L7\\Chess\\ChessTemp\\ChessProject\\Board.h",
-              "RelativeToolTip": "Board.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "Knight.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Knight.h",
+              "RelativeDocumentMoniker": "Knight.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\ekronotexercises\\chessProject\\ChessTemp\\ChessProject\\Knight.h",
+              "RelativeToolTip": "Knight.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-10T17:08:23.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T17:10:43.324Z"
             }
           ]
         }
