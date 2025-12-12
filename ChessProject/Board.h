@@ -2,21 +2,16 @@
 #include "Player.h"
 #include "Piece.h"
 #include <string>
+#define BOARD_SIZE 64
 class Board
 {
 public:
 	Board();
-	~Board();
-	Player* getWhite();
-	Player* getBlack();
-	void initBoard();
-	void clearBoard();
-	int getPieceIndex(std::string pos);
+	char getEmptyPiecePosition(int position);
+	std::string sendBoard();
 
 
 protected:
-	Player* white;
-	Player* black;
-	Piece* board[];
+	std::string _boardStr;
 };
 

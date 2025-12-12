@@ -139,7 +139,7 @@
     <ClCompile Include="Bishop.cpp" />
     <ClCompile Include="Board.cpp" />
     <ClCompile Include="GameManager.cpp" />
-    <ClCompile Include="IPiece.cpp" />
+    <ClCompile Include="IPeace.cpp" />
     <ClCompile Include="King.cpp" />
     <ClCompile Include="Knight.cpp" />
     <ClCompile Include="Pawn.cpp" />
